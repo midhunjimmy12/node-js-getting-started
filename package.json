@@ -10,12 +10,14 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "ejs": "2.4.1",
-    "express": "4.13.3"
+    "express": "4.x",
+		"ejs": "2.x",
+		"express.io": "1.x"
+	}
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "https://github.com/midhunjimmy12/node-js-getting-started"
   },
   "keywords": [
     "node",
